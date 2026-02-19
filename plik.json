@@ -1,0 +1,419 @@
+{
+    "week": [
+        {
+            "day": "Poniedziałek",
+            "focus": "Klatka, Plecy, Barki",
+            "dayName": "Upper Body A",
+            "exercises": [
+                {
+                    "code": "barbell_bench_press",
+                    "name": "barbell_bench_press",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Główny ruch wyciskający. Skup się na kontrolowanej fazie negatywnej.",
+                    "name_en": "barbell_bench_press",
+                    "name_pl": "barbell_bench_press",
+                    "pattern": "push_horizontal",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Middle Chest"
+                },
+                {
+                    "code": "pull_up",
+                    "name": "pull_up",
+                    "reps": "12-15",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Jeśli nie jesteś w stanie wykonać 12-15 powtórzeń, wykonaj maksymalną liczbę w każdej serii (AMRAP).",
+                    "name_en": "pull_up",
+                    "name_pl": "pull_up",
+                    "pattern": "pull_vertical",
+                    "equipment": [
+                        "body weight"
+                    ],
+                    "primary_muscle": "Lats"
+                },
+                {
+                    "code": "barbell_seated_overhead_press",
+                    "name": "barbell_seated_overhead_press",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Utrzymuj stabilny tułów, unikaj nadmiernego wygięcia w plecach.",
+                    "name_en": "barbell_seated_overhead_press",
+                    "name_pl": "barbell_seated_overhead_press",
+                    "pattern": "push_vertical",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Front Delts"
+                },
+                {
+                    "code": "dumbbell_one_arm_bent_over_row",
+                    "name": "dumbbell_one_arm_bent_over_row",
+                    "reps": "10-12",
+                    "rest": "75s",
+                    "sets": 3,
+                    "notes": "Ćwiczenie na każdą stronę. Skup się na pracy mięśni grzbietu, a nie bicepsa.",
+                    "name_en": "dumbbell_one_arm_bent_over_row",
+                    "name_pl": "dumbbell_one_arm_bent_over_row",
+                    "pattern": "pull_horizontal",
+                    "equipment": [
+                        "dumbbell"
+                    ],
+                    "primary_muscle": "Traps"
+                },
+                {
+                    "code": "dumbbell_incline_fly",
+                    "name": "dumbbell_incline_fly",
+                    "reps": "12-15",
+                    "rest": "60s",
+                    "sets": 3,
+                    "notes": "Rozciągnij mocno klatkę piersiową w dolnej fazie ruchu.",
+                    "name_en": "dumbbell_incline_fly",
+                    "name_pl": "dumbbell_incline_fly",
+                    "pattern": "push_horizontal",
+                    "equipment": [
+                        "dumbbell"
+                    ],
+                    "primary_muscle": "Upper Chest"
+                },
+                {
+                    "code": "dumbbell_lateral_raise",
+                    "name": "dumbbell_lateral_raise",
+                    "reps": "12-15",
+                    "rest": "60s",
+                    "sets": 3,
+                    "notes": "Unikaj bujania tułowiem. Ruch prowadzony jest łokciami.",
+                    "name_en": "dumbbell_lateral_raise",
+                    "name_pl": "dumbbell_lateral_raise",
+                    "pattern": "push_vertical",
+                    "equipment": [
+                        "dumbbell"
+                    ],
+                    "primary_muscle": "Side Delts"
+                }
+            ],
+            "estimatedDuration": 55
+        },
+        {
+            "day": "Czwartek",
+            "focus": "Czworogłowe, Dwugłowe, Pośladki",
+            "dayName": "Lower Body A",
+            "exercises": [
+                {
+                    "code": "barbell_full_squat",
+                    "name": "barbell_full_squat",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Główny bój na nogi. Dbaj o pełny zakres ruchu i prosty kręgosłup.",
+                    "name_en": "barbell_full_squat",
+                    "name_pl": "barbell_full_squat",
+                    "pattern": "knee_dominant",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Glutes"
+                },
+                {
+                    "code": "barbell_romanian_deadlift",
+                    "name": "barbell_romanian_deadlift",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Skupienie na rozciągnięciu mięśni dwugłowych uda. Lekko ugięte kolana.",
+                    "name_en": "barbell_romanian_deadlift",
+                    "name_pl": "barbell_romanian_deadlift",
+                    "pattern": "hip_hinge",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Glutes"
+                },
+                {
+                    "code": "barbell_front_squat",
+                    "name": "barbell_front_squat",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Akcent na mięśnie czworogłowe. Utrzymuj klatkę piersiową i łokcie wysoko.",
+                    "name_en": "barbell_front_squat",
+                    "name_pl": "barbell_front_squat",
+                    "pattern": "knee_dominant",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Quads"
+                },
+                {
+                    "code": "barbell_hip_thrust",
+                    "name": "barbell_hip_thrust",
+                    "reps": "10-12",
+                    "rest": "75s",
+                    "sets": 3,
+                    "notes": "Maksymalne napięcie pośladków w szczytowej fazie ruchu.",
+                    "name_en": "barbell_hip_thrust",
+                    "name_pl": "barbell_hip_thrust",
+                    "pattern": "hip_hinge",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Glutes"
+                },
+                {
+                    "code": "barbell_standing_calf_raise",
+                    "name": "barbell_standing_calf_raise",
+                    "reps": "15-20",
+                    "rest": "45s",
+                    "sets": 3,
+                    "notes": "Pełne rozciągnięcie i maksymalne spięcie mięśni łydek.",
+                    "name_en": "barbell_standing_calf_raise",
+                    "name_pl": "barbell_standing_calf_raise",
+                    "pattern": "isolation",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Calves"
+                }
+            ],
+            "estimatedDuration": 50
+        },
+        {
+            "day": "Sobota",
+            "focus": "Barki, Plecy, Klatka",
+            "dayName": "Upper Body B",
+            "exercises": [
+                {
+                    "code": "barbell_standing_wide_military_press",
+                    "name": "barbell_standing_wide_military_press",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Priorytet na barki. Napnij brzuch i pośladki dla stabilizacji.",
+                    "name_en": "barbell_standing_wide_military_press",
+                    "name_pl": "barbell_standing_wide_military_press",
+                    "pattern": "push_vertical",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Front Delts"
+                },
+                {
+                    "code": "chin_up",
+                    "name": "chin_up",
+                    "reps": "12-15",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Podchwyt mocniej angażuje bicepsy. Wykonaj AMRAP, jeśli to konieczne.",
+                    "name_en": "chin_up",
+                    "name_pl": "chin_up",
+                    "pattern": "pull_vertical",
+                    "equipment": [
+                        "body weight"
+                    ],
+                    "primary_muscle": "Lats"
+                },
+                {
+                    "code": "chest_dip",
+                    "name": "chest_dip",
+                    "reps": "12-15",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Pochyl się do przodu, aby mocniej zaangażować dolną część klatki piersiowej.",
+                    "name_en": "chest_dip",
+                    "name_pl": "chest_dip",
+                    "pattern": "push_vertical",
+                    "equipment": [
+                        "body weight"
+                    ],
+                    "primary_muscle": "Lower Chest"
+                },
+                {
+                    "code": "barbell_pendlay_row",
+                    "name": "barbell_pendlay_row",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Każde powtórzenie zaczynaj z martwego punktu na podłodze. Buduje eksplozywną siłę pleców.",
+                    "name_en": "barbell_pendlay_row",
+                    "name_pl": "barbell_pendlay_row",
+                    "pattern": "pull_horizontal",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Traps"
+                },
+                {
+                    "code": "barbell_incline_bench_press",
+                    "name": "barbell_incline_bench_press",
+                    "reps": "10-12",
+                    "rest": "75s",
+                    "sets": 3,
+                    "notes": "Akcent na górną część klatki piersiowej.",
+                    "name_en": "barbell_incline_bench_press",
+                    "name_pl": "barbell_incline_bench_press",
+                    "pattern": "push_horizontal",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Upper Chest"
+                },
+                {
+                    "code": "cable_rear_delt_row_with_rope",
+                    "name": "cable_rear_delt_row_with_rope",
+                    "reps": "12-15",
+                    "rest": "60s",
+                    "sets": 3,
+                    "notes": "Celuj w tylne aktony barków. Prowadź łokcie szeroko na zewnątrz.",
+                    "name_en": "cable_rear_delt_row_with_rope",
+                    "name_pl": "cable_rear_delt_row_with_rope",
+                    "pattern": "pull_horizontal",
+                    "equipment": [
+                        "cable"
+                    ],
+                    "primary_muscle": "Rear Delts"
+                }
+            ],
+            "estimatedDuration": 55
+        },
+        {
+            "day": "Niedziela",
+            "focus": "Całe nogi, Łańcuch tylny",
+            "dayName": "Lower Body B",
+            "exercises": [
+                {
+                    "code": "barbell_deadlift",
+                    "name": "barbell_deadlift",
+                    "reps": "10-12",
+                    "rest": "120s",
+                    "sets": 3,
+                    "notes": "Najważniejsze ćwiczenie na tylną taśmę. Technika jest absolutnym priorytetem.",
+                    "name_en": "barbell_deadlift",
+                    "name_pl": "barbell_deadlift",
+                    "pattern": "hip_hinge",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Glutes"
+                },
+                {
+                    "code": "barbell_low_bar_squat",
+                    "name": "barbell_low_bar_squat",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Większe zaangażowanie pośladków i tylnej taśmy w porównaniu do przysiadu high-bar.",
+                    "name_en": "barbell_low_bar_squat",
+                    "name_pl": "barbell_low_bar_squat",
+                    "pattern": "hip_dominant",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Glutes"
+                },
+                {
+                    "code": "barbell_lying_lifting_on_hip",
+                    "name": "barbell_lying_lifting_on_hip",
+                    "reps": "12-15",
+                    "rest": "75s",
+                    "sets": 3,
+                    "notes": "Alternatywa dla hip thrust, świetne ćwiczenie izolujące pośladki.",
+                    "name_en": "barbell_lying_lifting_on_hip",
+                    "name_pl": "barbell_lying_lifting_on_hip",
+                    "pattern": "knee_dominant",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Glutes"
+                },
+                {
+                    "code": "barbell_wide_squat",
+                    "name": "barbell_wide_squat",
+                    "reps": "10-12",
+                    "rest": "90s",
+                    "sets": 3,
+                    "notes": "Angażuje mocniej wewnętrzną część ud (przywodziciele) i pośladki.",
+                    "name_en": "barbell_wide_squat",
+                    "name_pl": "barbell_wide_squat",
+                    "pattern": "knee_dominant",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Quads"
+                },
+                {
+                    "code": "barbell_seated_calf_raise",
+                    "name": "barbell_seated_calf_raise",
+                    "reps": "15-20",
+                    "rest": "45s",
+                    "sets": 3,
+                    "notes": "Celuje w mięsień płaszczkowaty łydki. Utrzymaj spięcie w szczytowej fazie.",
+                    "name_en": "barbell_seated_calf_raise",
+                    "name_pl": "barbell_seated_calf_raise",
+                    "pattern": "isolation",
+                    "equipment": [
+                        "barbell"
+                    ],
+                    "primary_muscle": "Calves"
+                }
+            ],
+            "estimatedDuration": 50
+        },
+        {
+            "day": "Czwartek",
+            "focus": "",
+            "day_en": "Thursday",
+            "day_pl": "Czwartek",
+            "dayName": "Czwartek",
+            "dayIndex": 3,
+            "exercises": [
+                {
+                    "code": "assisted_hanging_knee_raise_with_throw_down",
+                    "name": "Asystowane wznosy kolan w zwisie z dynamicznym opuszczeniem",
+                    "reps": "10",
+                    "rest": "90",
+                    "sets": "3",
+                    "name_en": "Assisted Hanging Knee Raise with Throw Down",
+                    "name_pl": "Asystowane wznosy kolan w zwisie z dynamicznym opuszczeniem",
+                    "pattern": "core",
+                    "equipment": "assisted",
+                    "primary_muscle": "abs"
+                },
+                {
+                    "code": "assisted_hanging_knee_raise_with_throw_down",
+                    "name": "Asystowane wznosy kolan w zwisie z dynamicznym opuszczeniem",
+                    "reps": "10",
+                    "rest": "90",
+                    "sets": "3",
+                    "name_en": "Assisted Hanging Knee Raise with Throw Down",
+                    "name_pl": "Asystowane wznosy kolan w zwisie z dynamicznym opuszczeniem",
+                    "pattern": "core",
+                    "equipment": "assisted",
+                    "primary_muscle": "abs"
+                }
+            ],
+            "estimatedDuration": 0
+        }
+    ],
+    "notes": "Plan jest zoptymalizowany pod kątem spalania tkanki tłuszczowej przy zachowaniu masy mięśniowej. Kluczowe jest utrzymanie progresji ciężaru w zakresie podanych powtórzeń. Przerwy między seriami powinny być zdyscyplinowane, aby utrzymać wysokie tempo metabolizmu. Nie ma bezpośrednich ćwiczeń na brzuch, aby zmaksymalizować pracę nad dużymi grupami mięśniowymi w 60 minut - co jest bardziej efektywne dla redukcji. Jeśli masz czas i siłę, możesz dodać 2-3 serie ćwiczeń na brzuch (np. 'cable_kneeling_crunch' lub 'hanging_leg_raise') na koniec treningu lub w dni wolne.",
+    "metadata": {
+        "provider": "gemini",
+        "generatedAt": "2026-02-18T23:48:53.596Z",
+        "exercisesAvailable": 911
+    },
+    "splitName": "Upper / Lower x2 (Redukcja)",
+    "usedFallback": false,
+    "weeklyVolume": {
+        "arms": 12,
+        "back": 12,
+        "core": 0,
+        "legs": 30,
+        "chest": 12,
+        "shoulders": 12
+    },
+    "fallbackReason": null,
+    "splitDescription": "Klasyczny podział Upper/Lower dwa razy w tygodniu. Pozwala na optymalną częstotliwość treningu każdej partii (2x w tygodniu), co jest idealne dla celu redukcji i utrzymania masy mięśniowej przy jednoczesnym zapewnieniu odpowiedniej regeneracji."
+}
